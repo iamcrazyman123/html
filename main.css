@@ -1,0 +1,35 @@
+#lol {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lmao {
+    font-size: 25 px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html, body {
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    color: #fff;
+    background-color: violet;
+    padding: 16px;
+    border: 3px solid #333;
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+}
+
+.link:hover {
+    color: blue;
+}
+
+.link:active {
+    color: aquamarine;
+}
